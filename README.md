@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A CompSci Student currently living in Switzerland</h3>
+<h1 align="center">Hey👋</h1>
+<h3 align="center">A Second Year Computer Science bachelor student at EPFL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham290904&label=Profile%20views&color=0e75b6&style=flat" alt="soham290904" /> </p>
 
